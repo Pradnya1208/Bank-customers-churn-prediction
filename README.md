@@ -7,3 +7,49 @@ This is where predicting churn at the right time becomes important, especially w
 <div align="center">
   <img src = "https://github.com/Pradnya1208/Bank-customers-churn-prediction/blob/main/output/gify.gif?raw=true" width="75%">
 </div>
+
+## Objectives:
+In this project our goal is to predict the probability of a customer is likely to churn using machine learning techniques.
+## Dataset:
+[Predicting Churn for Bank Customers](https://www.kaggle.com/adammaus/predicting-churn-for-bank-customers)
+
+## Implementation:
+
+**Libraries:** `sklearn` `Matplotlib` `pandas` `seaborn` `NumPy` `Scipy` 
+
+
+## Few glimpses of EDA:
+
+### 1. Churn Distribution
+![Churn](https://github.com/Pradnya1208/Bank-customers-churn-prediction/blob/main/output/churn%20distribution.PNG?raw=true)
+ From the above chart, we can say that our traget variable is imbalanced.
+
+### 2. Distribution of the Categorical Variables:
+#### a. Grography distribution in customer attrition
+![geography](https://github.com/Pradnya1208/Bank-customers-churn-prediction/blob/main/output/geography.PNG?raw=true)
+
+#### b. Gender distribution in customer attrition
+![gender](https://github.com/Pradnya1208/Bank-customers-churn-prediction/blob/main/output/gender.PNG?raw=true)
+
+#### c. Customer attrition w.r.t. products
+![products](https://github.com/Pradnya1208/Bank-customers-churn-prediction/blob/main/output/products.PNG?raw=true)
+
+#### d. Customer attrition w.r.t. credit card
+![credit card](https://github.com/Pradnya1208/Bank-customers-churn-prediction/blob/main/output/creditcard.PNG?raw=true)
+
+#### e. Customer attrition w.r.t. active status of a member
+![active](https://github.com/Pradnya1208/Bank-customers-churn-prediction/blob/main/output/iactive.PNG?raw=true)
+
+### 3. Distribution of the continuous Variables:
+#### a. Credit Score
+![creditscore](https://github.com/Pradnya1208/Bank-customers-churn-prediction/blob/main/output/creditscore%20distribution.PNG?raw=true)
+
+#### b. Age distribution
+![age](https://github.com/Pradnya1208/Bank-customers-churn-prediction/blob/main/output/agedistribution.PNG?raw=true)
+
+#### c. Tenure distribution
+![tenure](https://github.com/Pradnya1208/Bank-customers-churn-prediction/blob/main/output/tenureditribution.PNG?raw=true)
+
+#### d. Balance distribution
+![balance](https://github.com/Pradnya1208/Bank-customers-churn-prediction/blob/main/output/balance%20distribution.PNG?raw=true)
+

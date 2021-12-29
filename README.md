@@ -58,6 +58,7 @@ In this project our goal is to predict the probability of a customer is likely t
 ### Feature Importances
 We need to know which the important features are. In order to find that out, we trained the model using the Random Forest classifier.
 ![Feature importance](https://github.com/Pradnya1208/Bank-customers-churn-prediction/blob/main/output/feature%20importances.PNG?raw=true)
+<br>
 The graph above shows the features with the highest importance value to the lowest importance value.
 
 ### Model Selection
@@ -71,8 +72,8 @@ Since we are modeling a critic problem for that we need model with high performa
 
 ### Base Model results:
 ![Results](https://github.com/Pradnya1208/Bank-customers-churn-prediction/blob/main/output/baselinemodel.PNG?raw=true)
+ <img src = "https://github.com/Pradnya1208/Bank-customers-churn-prediction/blob/main/output/rocauc.PNG?raw=true" width="60%">
 
-![ROCAUC](https://github.com/Pradnya1208/Bank-customers-churn-prediction/blob/main/output/rocauc.PNG?raw=true)
 
 ## Optimizations
 

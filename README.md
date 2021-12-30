@@ -86,8 +86,13 @@ Since we are modeling a critic problem for that we need model with high performa
 - RandomForest (RF)
 
 ### Base Model results:
-![Results](https://github.com/Pradnya1208/Bank-customers-churn-prediction/blob/main/output/baselinemodel.PNG?raw=true)
- <img src = "https://github.com/Pradnya1208/Bank-customers-churn-prediction/blob/main/output/rocauc.PNG?raw=true" width="60%">
+
+<img src = "https://github.com/Pradnya1208/Bank-customers-churn-prediction/blob/main/output/rocauc.PNG?raw=true">
+<div align="center">
+<img src = "https://github.com/Pradnya1208/Bank-customers-churn-prediction/blob/main/output/baselinemodel.PNG?raw=true" width="60%">
+</div>
+
+
 
 
 ## Optimizations
